@@ -46,3 +46,7 @@
 **反馈3：** 颜色使用不太恰当。
 
 **改进3：** 借鉴了 dimple.js library 示例中的颜色。
+
+### 资源
+
+http://dimplejs.org/examples_viewer.html?id=bubbles_vertical_lollipop
